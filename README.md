@@ -1,7 +1,7 @@
 # Flappybird-in-Node.js
 Flappy bird for the terminal made for node.js usage
 
-To run simplly type: node flappybird.js in the same directory as the file.
+To run simply type: node flappybird.js in the same directory as the file.
 
 How to play:
 
